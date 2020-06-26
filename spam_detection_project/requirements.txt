@@ -3,3 +3,4 @@ seaborn
 matplotlib
 nltk
 spacy
+wordcloud
