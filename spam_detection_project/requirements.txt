@@ -3,4 +3,4 @@ seaborn
 matplotlib
 nltk
 spacy
-wordcloud
+streamlit
